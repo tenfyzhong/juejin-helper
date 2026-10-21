@@ -20,5 +20,8 @@
     "ts-node": "^10.9.1"
   },
   "homepage": "https://github.com/iDerekLi/juejin-helper",
-  "releases_url": "https://api.github.com/repos/iDerekLi/juejin-helper/releases"
+  "releases_url": "https://api.github.com/repos/iDerekLi/juejin-helper/releases",
+  "engines": {
+    "node": ">=22.23.4 <23"
+  }
 }
