@@ -4,6 +4,9 @@
   "private": true,
   "description": "稀土掘金助手：签到、抽奖、沾喜气、消除Bug、海底掘金游戏、自动化工作流。",
   "author": "Derek Li",
+  "engines": {
+    "node": ">=22.23.4 <23"
+  },
   "scripts": {
     "checkin": "ts-node checkin.js",
     "seagold": "ts-node seagold.js"
